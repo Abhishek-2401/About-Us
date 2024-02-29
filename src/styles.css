@@ -52,26 +52,7 @@ body {
     .search-input {
       padding-left: 1.8rem;
     }
-    .bg-img{
-      width: 100%;
-      height: 501px;
-      
-
-    }
-    .packages-container {
-      position: absolute; 
-      border-top-left-radius: 50px;
-      border-top-right-radius: 50px;
-      
-    }
-    input[type='checkbox'] {
-      accent-color: black;
-  }
-
-  input[type=radio] {
-    accent-color:black;
-  }
-  
+    
   
     
     
